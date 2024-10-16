@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            //melding
+            Console.WriteLine("Dit is een Github test project");
         }
     }
 }
